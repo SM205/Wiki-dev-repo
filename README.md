@@ -1,2 +1,2 @@
 # Wiki-dev-repo
-WIki
+Wiki
